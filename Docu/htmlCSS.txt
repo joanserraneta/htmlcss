@@ -1,0 +1,13 @@
+https://developer.mozilla.org/en-US/
+
+<img> self closing tag, opcional poner etiqueta de cierre
+
+en head 
+    todos los elementos importantes pero que no forman parte de la estructura der la pagina, como:
+        - archhivo externo, enlaces a archivos externos, css o js, titulo de la pagina
+
+en body
+    de h1 a h6 cada volta mes xicotet
+    <p>
+    alt+z per a voreu com terminal
+    
